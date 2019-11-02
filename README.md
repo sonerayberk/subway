@@ -13,10 +13,12 @@ Install required packages
 pip install networkx matplotlib
 ```
 
-# Run script
+# Run a script
 Paradoxically
 
 ```
 python main.py
 ```
 
+# See the result
+![Subway Scheme](scheme.png)
